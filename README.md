@@ -1,6 +1,6 @@
 # Engenharia de Software
 
-Projeto de um repositório para armazenar informações dos projetos da disciplina de engenharia de software.
+Projeto de um observatório com as informações dos projetos da disciplina de Engenharia de Software.
 
 # Tecnologia utilizada:
 Python Web com Flask
